@@ -52,3 +52,9 @@ Calligraphy : https://github.com/chrisjenx/Calligraphy
 Content Manager : https://github.com/stfalcon-studio/ContentManager
 
 Social Auth Helper : https://github.com/stfalcon-studio/SocialAuthHelper
+
+Chat Kit : https://github.com/stfalcon-studio/ChatKit
+
+Socket.io java client : https://github.com/socketio/socket.io-client-java
+
+
